@@ -1,6 +1,6 @@
 # Critical CSS Plugin for Vue CLI 3
 
-Adds [html-critical-webpack-plugin](https://github.com/anthonygore/html-critical-webpack-plugin) to a Vue CLI project.
+Adds [html-critical-webpack-plugin](https://github.com/anthonygore/html-critical-webpack-plugin) to a Vue CLI project, which extracts critical CSS and inlines it into the document head.
 
 Any options which can be passed to HtmlCriticalPlugin can be passed to vue.config.js under the property `pluginOptions.critical` e.g.
 
