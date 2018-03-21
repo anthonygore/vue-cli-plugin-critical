@@ -1,11 +1,15 @@
 {
   "name": "vue-cli-plugin-critical",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Adds critical CSS to a Vue CLI project ",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Anthony Gore",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anthonygore/vue-cli-plugin-critical.git"
+  }
 }
