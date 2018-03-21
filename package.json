@@ -1,6 +1,6 @@
 {
   "name": "vue-cli-plugin-critical",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Adds critical CSS to a Vue CLI project ",
   "main": "index.js",
   "scripts": {

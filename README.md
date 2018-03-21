@@ -14,3 +14,10 @@ module.exports = {
     }
 }
 ```
+
+#### Usage
+
+```bash
+npm i -D vue-cli-plugin-critical
+npm run build ## Only runs in production mode
+```
