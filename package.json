@@ -1,6 +1,6 @@
 {
   "name": "vue-cli-plugin-critical",
-  "version": "1.0.3",
+  "version": "1.1.0",
   "description": "Adds critical CSS to a Vue CLI project ",
   "main": "index.js",
   "scripts": {
@@ -11,5 +11,11 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/anthonygore/vue-cli-plugin-critical.git"
+  },
+  "dependencies": {
+    "html-critical-webpack-plugin": "^2.0.0"
+  },
+  "peerDependencies": {
+    "@vue/cli-service": ">=3.0.0-beta.10"
   }
 }
